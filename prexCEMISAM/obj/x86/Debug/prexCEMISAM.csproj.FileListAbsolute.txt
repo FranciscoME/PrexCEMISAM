@@ -1,0 +1,134 @@
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\Libro c#\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+D:\Users\admin\Documents\Visual Studio 2010\Projects\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.csproj.GenerateResource.Cache
+C:\Users\usuario\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.csproj.GenerateResource.Cache
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+D:\Users\Frank\Documents\visual studio 2010\Projects\ESEXPEDIENTES\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe.manifest
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.application
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.TrustInfo.xml
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe.manifest
+C:\Users\admin\Desktop\EXPEDIENTES3\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.application
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe.manifest
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.application
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.FormReporteFecha.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.ModificarSalidas.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.TrustInfo.xml
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe.manifest
+C:\Users\admin\Desktop\EXPEDIENTES10\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.application
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe.manifest
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.application
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.FormReporteFecha.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.ModificarSalidas.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.VistaFormSXFecha.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.csproj.GenerateResource.Cache
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\RdlCompile.cache
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\RdlCompile.compiled
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.TrustInfo.xml
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe.manifest
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.application
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.csprojResolveAssemblyReference.cache
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.VistaFormEXFecha.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.FormReportePXFecha.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.formModificarDepartamento.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.formModificarResponsable.resources
+D:\Users\Francisco\Documents\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.formEliminarResponsable.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe.manifest
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.application
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.exe
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\bin\Debug\prexCEMISAM.pdb
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Form1.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarDepartamento.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.AgregarResponsable.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.formEliminarResponsable.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.formModificarDepartamento.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.formModificarResponsable.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.FormReporteFecha.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.FormReportePXFecha.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.ModificarSalidas.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.PrincipalForm.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.VistaFormEXFecha.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Formularios.VistaFormSXFecha.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.Properties.Resources.resources
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.TrustInfo.xml
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe.manifest
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.application
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.exe
+C:\Users\admin\Desktop\EXPEDIENTES\prexCEMISAM\prexCEMISAM\obj\x86\Debug\prexCEMISAM.pdb
